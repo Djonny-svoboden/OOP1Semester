@@ -1,0 +1,13 @@
+C:\Users\nichi\source\repos\MyPrinter\MyPrinter\bin\Debug\netcoreapp3.1\MyPrinter.exe
+C:\Users\nichi\source\repos\MyPrinter\MyPrinter\bin\Debug\netcoreapp3.1\MyPrinter.deps.json
+C:\Users\nichi\source\repos\MyPrinter\MyPrinter\bin\Debug\netcoreapp3.1\MyPrinter.runtimeconfig.json
+C:\Users\nichi\source\repos\MyPrinter\MyPrinter\bin\Debug\netcoreapp3.1\MyPrinter.runtimeconfig.dev.json
+C:\Users\nichi\source\repos\MyPrinter\MyPrinter\bin\Debug\netcoreapp3.1\MyPrinter.dll
+C:\Users\nichi\source\repos\MyPrinter\MyPrinter\bin\Debug\netcoreapp3.1\MyPrinter.pdb
+C:\Users\nichi\source\repos\MyPrinter\MyPrinter\obj\Debug\netcoreapp3.1\MyPrinter.csprojAssemblyReference.cache
+C:\Users\nichi\source\repos\MyPrinter\MyPrinter\obj\Debug\netcoreapp3.1\MyPrinter.AssemblyInfoInputs.cache
+C:\Users\nichi\source\repos\MyPrinter\MyPrinter\obj\Debug\netcoreapp3.1\MyPrinter.AssemblyInfo.cs
+C:\Users\nichi\source\repos\MyPrinter\MyPrinter\obj\Debug\netcoreapp3.1\MyPrinter.csproj.CoreCompileInputs.cache
+C:\Users\nichi\source\repos\MyPrinter\MyPrinter\obj\Debug\netcoreapp3.1\MyPrinter.dll
+C:\Users\nichi\source\repos\MyPrinter\MyPrinter\obj\Debug\netcoreapp3.1\MyPrinter.pdb
+C:\Users\nichi\source\repos\MyPrinter\MyPrinter\obj\Debug\netcoreapp3.1\MyPrinter.genruntimeconfig.cache
